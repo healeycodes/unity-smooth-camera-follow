@@ -1,2 +1,3 @@
-# unity-smooth-camera-follow
-An extendable camera script for a 3D smooth follow. Designed for single-unit top-down use.
+## Smooth Camera Follow
+
+Designed for an RTS style camera. With smooth follow (X-,Y-,Z-axis) and smooth rotate as well. Smooth meaning linear interpolation.
