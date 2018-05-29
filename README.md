@@ -1,3 +1,3 @@
 ## Smooth Camera Follow
 
-Designed for an RTS style camera. With smooth follow (X-,Y-,Z-axis) and smooth rotate as well. Smooth meaning linear interpolation.
+Designed for an RTS style camera. With smooth follow (X-,Y-,Z-axis) and smooth rotate as well. Smooth meaning linear interpolation. Great for a quick game jam camera.
