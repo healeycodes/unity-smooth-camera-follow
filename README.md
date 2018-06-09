@@ -22,3 +22,7 @@ Set the object's Transform that you wish to follow to `player`.
 The camera will look at a point on the positive Z-axis from the object.
 
 Personally, I like to negatively lerp the `followBehindDst` and `height` values upon player death.
+
+### License
+
+MIT.
