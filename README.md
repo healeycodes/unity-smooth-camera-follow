@@ -5,7 +5,7 @@ Written in C#. Designed for an RTS style camera. With smooth follow (X-,Y-,and Z
 
 Variables to experiment with:
 
-```
+```C#
 public Transform player;
 public float moveSmoothTime = 1f; // Lower is slower
 public float heightSmoothTime = 1f; // Lower is slower
