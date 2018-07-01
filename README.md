@@ -25,4 +25,4 @@ Personally, I like to negatively lerp the `followBehindDst` and `height` values 
 
 ### License
 
-MIT.
+https://mit-license.org/
